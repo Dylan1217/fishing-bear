@@ -1,1 +1,11 @@
 /* Place CSS styles here */
+
+body {
+    background-image: url(../img/river.jpg);
+    background-size: cover; /* scale img to cover entire background */
+    background-position: center; /* centers the image */
+    background-repeat: no-repeat; /* stop img from repeating */
+    background-attachment: fixed; /* fixed even while scrolling */
+}
+
+/* .banner {how to make my header or other elements get edited individually}  */
